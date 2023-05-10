@@ -1,0 +1,9 @@
+*
+!src/
+!src/*.ts
+!src/*.js
+!.gitignore
+!package-lock.json
+!package.json
+!README.md
+!tsconfig.json
