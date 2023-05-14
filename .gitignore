@@ -1,4 +1,6 @@
 *
+!cypress/
+!cypress/*.ts
 !src/
 !src/*.ts
 !src/*.js
