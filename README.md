@@ -1,1 +1,1 @@
-# ts-practice
+# cypress-practice
