@@ -1,5 +1,7 @@
 *
 !cypress/
+!cypress/e2e
+!cypress/e2e/*.ts
 !cypress/fixtures/
 !cypress/fixtures/*.json
 !cypress/support/
