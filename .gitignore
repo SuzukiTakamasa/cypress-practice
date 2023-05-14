@@ -1,6 +1,7 @@
 *
 !cypress/
 !cypress/*.ts
+!cypress.config.ts
 !src/
 !src/*.ts
 !src/*.js
