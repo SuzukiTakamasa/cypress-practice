@@ -15,6 +15,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "bitcore-lib": "^10.0.5"
+    "bitcore-lib": "^10.0.5",
+    "papaparse": "^5.4.1"
   }
 }

@@ -7,11 +7,15 @@
 !cypress/support/
 !cypress/support/*.ts
 !cypress.config.ts
+
 !src/
 !src/*.ts
 !src/*.js
+
 !.gitignore
+
 !package-lock.json
 !package.json
+
 !README.md
 !tsconfig.json
